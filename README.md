@@ -2,8 +2,11 @@
 
   <h3 style="margin-botton:10px">
 My name is Giovani Florek, i'm a Full Stack Developer from Brazil 💚💛💙, especialized in Web Applications <br>
-Be free to explore and clone my repositories. <br>
+
 If u have any question, contact me just by clicking in the buttons below 💬<br>
+
+  
+Be free to explore and clone my repositories. <br>
 </h3>
 
 <div align="center">
