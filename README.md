@@ -1,7 +1,7 @@
 <h2>Hi there, welcome to my Github Profile!</h2>
 
   <h3 style="margin-botton:10px">
-My name is Giovani Florek, i'm a Full Stack Developer from Brazil 💚💛💙, especialized in Web Applications <br>
+My name is Giovani Florek, i'm a Full Stack Developer from Brazil, especialized in Web Applications <br>
 
 If u have any question, contact me just by clicking in the buttons below 💬<br>
 
@@ -27,11 +27,3 @@ Be free to explore and clone my repositories. <br>
 </div>
   
   ##
- 
-<div> 
-  <a href = "mailto:florekgiovani1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovani-florek-42a245149" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
