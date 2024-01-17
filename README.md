@@ -3,27 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Giovani Florek - Software Developer</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-
-        h1 {
-            color: #0366d6; /* GitHub blue color */
-        }
-
-        p {
-            color: #586069; /* GitHub text color */
-        }
-
-        .emoji {
-            font-size: 20px;
-            margin-right: 5px;
-        }
-    </style>
 </head>
 <body>
     <h1>Giovani Florek - Software Developer</h1>
